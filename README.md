@@ -12,6 +12,6 @@ Aplicación de gestión de tareas con persistencia en SQLite y interfaz de termi
 
 ## 📦 Instalación
 ```bash
-git clone https://github.com/tu-usuario/todo-list-python.git
+git clone https://github.com/Diego1519/To-Do-ist-Python.git
 cd todo-list-python
 python src/main.py
